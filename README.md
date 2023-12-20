@@ -7,6 +7,6 @@ In this portfolio, I have included a few of my projects that showcases my data a
 
 In addition to my technical skills, I also pride myself with my critical thinking,problem-solving, team-work and communication skills. This skills help me analyze data with a strategic mindset, and to identify key issues and opportunities in the data.
 
-I hope you find my portfolio to be educative and fascinating.
+I hope you find my portfolio educative and fascinating.
 
 Thank you!
